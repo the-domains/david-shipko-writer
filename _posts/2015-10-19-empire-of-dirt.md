@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-19T18:14:47.506Z'
-dateModified: '2015-10-19T18:14:28.587Z'
+datePublished: '2015-10-19T18:17:54.296Z'
+dateModified: '2015-10-19T18:17:48.802Z'
 title: Empire of Dirt
 authors: []
 publisher:
