@@ -1,6 +1,6 @@
 name: 'David Shipko, Writer'
 favicon: null
-layout_spectrum: 0.38440360920503736
+layout_spectrum: 0.48104
 typography_spectrum: 0.4482036316767335
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.2622863866854459
+  brandStrength: 0.5
   lightness: 0.8811062385793775
   saturation: 0.6579769763629884
   rhythmicContrast: 0.3513732310384512
