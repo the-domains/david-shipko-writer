@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-20T15:20:42.533Z'
-dateModified: '2015-10-20T15:20:30.664Z'
+datePublished: '2015-10-20T15:22:29.133Z'
+dateModified: '2015-10-20T15:20:57.229Z'
 title: Empire of Dirt
 authors: []
 publisher:
