@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-20T15:22:29.133Z'
-dateModified: '2015-10-20T15:20:57.229Z'
+datePublished: '2015-10-20T15:54:15.523Z'
+dateModified: '2015-10-20T15:53:18.753Z'
 title: Empire of Dirt
 authors: []
 publisher:
@@ -27,8 +27,7 @@ orbit decay and my atmosphere vent. I wasn't sure what would get me first,
 gravity or vacuum. But I was sure that I was going to die, and that I didn't
 care. I couldn't keep going, not after what I had seen, not after what I had
 done. So, I just sat there, in the cockpit of our two-man corvette, my only
-company my co-pilot's corpse._Hurt_The
-first time I was to hear 
+company my co-pilot's corpse.
 
 I checked my chronometer. Five
 minutes to total decay. Just enough time for my orbit to reach around to
