@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[David Shipko, Writer]]></title>
         <description><![CDATA[David Shipko, Writer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-shipko-writer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 03:00:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 15:22:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-shipko-writer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Empire of Dirt]]></title>
+            <description><![CDATA[<h1>Empire of Dirt</h1>]]></description>
+            <link>https://thegrid.ai/david-shipko-writer/empire-of-dirt/index.html</link>
+            <guid isPermaLink="false">d728550f-7203-41a2-9101-f173990fae52</guid>
+            <pubDate>Tue, 20 Oct 2015 15:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Far Side of a Vast Gulf]]></title>
             <description><![CDATA[<h1>The Far Side of a Vast Gulf</h1>]]></description>
-            <link>undefinedthe-far-side-of-a-vast-gulf/index.html</link>
+            <link>https://thegrid.ai/david-shipko-writer/the-far-side-of-a-vast-gulf/index.html</link>
             <guid isPermaLink="false">3cd7781a-3fde-4318-a98a-82c0d26cad92</guid>
             <pubDate>Tue, 20 Oct 2015 02:59:40 GMT</pubDate>
         </item>
